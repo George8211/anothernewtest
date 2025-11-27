@@ -1,6 +1,6 @@
 ---
 title: Dreams
-subtitle: Website Design
+subtitle: Corrosion-resistant filters for high-purity liquid and gas filtration
 layout: default
 modal-id: 1
 date: 2014-07-18
