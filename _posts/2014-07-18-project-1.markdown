@@ -1,5 +1,5 @@
 ---
-title: Dreams
+title: Titanium Sintered Filter
 subtitle: Corrosion-resistant filters for high-purity liquid and gas filtration
 layout: default
 modal-id: 1
