@@ -10,8 +10,6 @@ alt: image-alt
 
 
 description: Precision-engineered stainless steel filters with uniform porosity and excellent mechanical strength, designed for reliable liquid and gas filtration in demanding industrial environments.
-
-Key Features:
 Corrosion-resistant and durable
 Uniform pore structure for precise filtration
 Long service life under high pressure and temperature
