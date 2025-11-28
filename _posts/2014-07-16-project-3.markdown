@@ -8,6 +8,6 @@ img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
 
-description: Stainless steel mesh filters with sintered layers, combining strength and fine filtration. Ideal for removing particles from liquids or gases while withstanding high temperature and corrosive environments.Multi-layer sintered mesh for effective filtration,High mechanical strength,Resistant to corrosion and high temperatures
+description: Stainless steel mesh filters with sintered layers, combining strength and fine filtration. Ideal for removing particles from liquids or gases while withstanding high temperature and corrosive environments.Multi-layer sintered mesh for effective filtration,High mechanical strength,Resistant to corrosion and high temperatures.
 
 ---
