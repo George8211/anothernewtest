@@ -9,3 +9,5 @@ thumbnail: treehouse-thumbnail.png
 alt: image-alt
 
 description: Sintered metal fiber felt is manufactured by laying fine metal fibers into a porous structure and bonding them through a high-temperature sintering process. It features a three-dimensional network, high porosity, and excellent dirt-holding capacity, making it ideal for precise filtration under high temperature, high pressure, and corrosive operating conditions.High porosity and excellent dirt-holding capacity,Stable filtration performance with fine precision,Resistant to high temperature and corrosion and Strong mechanical strength and long service life.
+
+---
