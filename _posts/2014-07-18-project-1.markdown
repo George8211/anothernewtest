@@ -1,5 +1,5 @@
 ---
-title: Titanium Sintered Filter
+title: Titanium Powder Sintered Filter
 
 layout: default
 modal-id: 1
@@ -10,6 +10,6 @@ alt: image-alt
 
 
 
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: High-purity titanium filters formed through a controlled sintering process, offering superior corrosion resistance, mechanical strength, and reliable filtration performance for harsh and high-purity applications.Excellent chemical and corrosion resistance,Strong and durable structure,Consistent porosity for precise filtration.
 
 ---
