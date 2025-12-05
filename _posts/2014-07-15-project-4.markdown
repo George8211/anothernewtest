@@ -1,13 +1,15 @@
 ---
-title: Sintered Metal Fiber Filter
-
+title: Treehouse
+subtitle: Website Design
 layout: default
 modal-id: 4
-
+date: 2014-07-15
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
-
-description: Sintered metal fiber felt is manufactured by laying fine metal fibers into a porous structure and bonding them through a high-temperature sintering process. It features a three-dimensional network, high porosity, and excellent dirt-holding capacity, making it ideal for precise filtration under high temperature, high pressure, and corrosive operating conditions.High porosity and excellent dirt-holding capacity,Stable filtration performance with fine precision,Resistant to high temperature and corrosion and Strong mechanical strength and long service life.
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
