@@ -1,5 +1,5 @@
 ---
-title: Golden
+title: Sintered Metal Mesh Filter
 subtitle: Website Design
 layout: default
 modal-id: 3
