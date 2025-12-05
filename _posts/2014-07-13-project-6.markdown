@@ -1,13 +1,15 @@
 ---
-title: Porous Gas Sparger
-
+title: Round Icons
+subtitle: Graphic Design
 layout: default
 modal-id: 6
-
+date: 2014-07-15
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
-
-description: Durable aeration heads designed to ensure uniform air distribution and efficient oxygen transfer in water and wastewater treatment systems. Built for long-term use in harsh operating conditions.Uniform bubble distribution for optimal aeration,Corrosion-resistant materials,Reliable performance in demanding.
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
