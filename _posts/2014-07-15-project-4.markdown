@@ -1,6 +1,6 @@
 ---
-title: Sintered Metal Fiber Felt Filter
-subtitle: Website Design
+title: Metal Fiber Felt Filter
+
 layout: default
 modal-id: 4
 date: 2014-07-15
