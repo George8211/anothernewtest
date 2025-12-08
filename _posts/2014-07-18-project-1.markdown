@@ -1,5 +1,5 @@
 ---
-title: Sintered Titanium Powder Filter
+title: Titanium Powder Filter
 
 layout: default
 modal-id: 1
