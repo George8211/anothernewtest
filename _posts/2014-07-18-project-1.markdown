@@ -4,7 +4,7 @@ title: Titanium Powder Filter
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: Titanium-Power-Filter.jpg
+img: Titanium-Power-Filter .jpg
 thumbnail: Titanium-Power-Filter-T.jpg
 alt: image-alt
 
