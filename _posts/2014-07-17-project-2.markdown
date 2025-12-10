@@ -4,12 +4,10 @@ title: Stainless Steel Powder Filter
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: ss-powder-filter.jpg
+thumbnail: ss-powder-filter-t.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+
 description: The Sintered Stainless Steel Filter Element is a high-performance filtration component made from high-quality stainless steel powder through a precision sintering process. The resulting porous structure combines excellent mechanical strength, thermal stability, and corrosion resistance, making it ideal for demanding industrial applications.The filter element provides uniform pore distribution, high filtration efficiency, and low pressure drop. Its pore size and porosity can be tailored to specific requirements, allowing precise removal of solid particles from liquids or gases. The robust construction ensures long service life and reliable performance even under high pressure, high temperature, and chemically aggressive environments.These filters are widely used in chemical processing, petrochemical, food and beverage, pharmaceutical, water treatment, and gas purification industries. The sintered stainless steel structure also allows repeated cleaning and backflushing, making it a cost-effective and sustainable filtration solution.
 
 ---
