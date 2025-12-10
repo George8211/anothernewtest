@@ -9,6 +9,7 @@ description:  "We manufacture high-performance porous metal filters, including s
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+{% comment %}
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
@@ -20,6 +21,7 @@ social:
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
+{% comment %}
 
 # Postal address (add as many lines as necessary)
 address:
