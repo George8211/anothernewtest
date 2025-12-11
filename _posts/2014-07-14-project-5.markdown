@@ -4,12 +4,10 @@ title: Sintered Filter Disc
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: Sintered-Metal-Disc.jpg
+thumbnail: Sintered-Metal-Disc-T.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+
 description: The Sintered Metal Disc is a high-performance filtration and flow-control component produced by sintering fine metal powders into a solid, porous disc. This process creates a durable structure with excellent mechanical strength, thermal stability, and corrosion resistance, making it suitable for demanding industrial applications.The porous structure ensures uniform filtration, precise particle retention, and efficient fluid or gas flow. Pore size, thickness, and material composition can be customized to meet specific application requirements. The sintered metal disc is capable of withstanding high pressure, high temperature, and chemically aggressive environments, providing reliable and long-lasting performance.Common applications include chemical and petrochemical processing, water treatment, gas purification, fuel cells, hydraulic and pneumatic systems, and precision filtration in industrial machinery. The robust construction allows repeated cleaning, backflushing, or sterilization, offering a sustainable and cost-effective filtration solution.
 
 ---
