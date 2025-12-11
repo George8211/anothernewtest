@@ -4,12 +4,10 @@ title: Sintered Metal Sparger
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: Sintered-Metal-Sparger.jpg
+thumbnail: Sintered-Metal-Sparger-T.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+
 description: The Metal Aeration Head is a high-performance device designed for efficient gas-liquid diffusion in various industrial and environmental applications. Manufactured from high-quality metals such as stainless steel or other corrosion-resistant alloys, it offers excellent durability, chemical resistance, and long service life, even under harsh operating conditions.The aeration head features a precision-engineered porous structure or perforated design that ensures uniform bubble distribution and optimal oxygen transfer efficiency. Its robust construction allows it to withstand high pressure, high temperature, and corrosive media, making it suitable for water treatment, wastewater treatment, aquaculture, chemical processing, and industrial fermentation.The design can be customized to meet specific flow rates, bubble sizes, and installation requirements. The metal aeration head is easy to maintain, reusable, and capable of repeated cleaning, providing a cost-effective and reliable solution for continuous aeration operations.
 
 ---
