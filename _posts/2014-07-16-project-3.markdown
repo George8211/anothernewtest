@@ -4,12 +4,10 @@ title: Sintered Metal Mesh Filter
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: Sintered-Mesh-Filter.jpg
+thumbnail: Sintered-Mesh-Filter-T.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+
 description: The Sintered Mesh Filter Element is a high-performance filtration component made by sintering multiple layers of stainless steel mesh into a solid, porous structure. This manufacturing process provides excellent mechanical strength, chemical resistance, and thermal stability, making it suitable for demanding industrial environments.The filter offers uniform pore distribution and precise filtration, effectively removing particles from liquids and gases while maintaining low pressure drop. The pore size, mesh layers, and overall porosity can be customized according to specific application requirements. Its robust structure ensures long-term durability and reliable performance under high pressure, high temperature, and corrosive conditions.Common applications include chemical and petrochemical processing, pharmaceuticals, food and beverage production, water treatment, and gas purification. The sintered mesh design also allows for repeated cleaning and backflushing, offering a cost-effective and sustainable solution for continuous industrial use.
 
 ---
