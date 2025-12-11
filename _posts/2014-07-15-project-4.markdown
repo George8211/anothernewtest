@@ -4,8 +4,8 @@ title: Metal Fiber Felt Filter
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: Sintered-Felt-Filter.jpg
-thumbnail: Sintered-Felt-Filter-T.jpg
+img: SS-Sintered-Felt-Filter.jpg
+thumbnail: SS-Sintered-Felt-Filter-T.jpg
 alt: image-alt
 
 description: The Sintered Stainless Steel Felt Filter Element is a high-performance filtration component manufactured by sintering layers of stainless steel felt into a durable, porous structure. This unique construction combines excellent mechanical strength, corrosion resistance, and thermal stability, making it suitable for demanding industrial and chemical applications.The felt structure provides a high surface area, uniform pore distribution, and efficient filtration, effectively capturing fine particles from liquids and gases while maintaining low pressure drop. Pore size, thickness, and porosity can be customized to meet specific process requirements. Its robust design ensures long service life and reliable performance under high temperature, high pressure, and corrosive environments.Typical applications include chemical processing, petrochemical, food and beverage production, pharmaceuticals, water treatment, and gas purification. The sintered stainless steel felt filter element can be cleaned and reused multiple times, providing a cost-effective and sustainable filtration solution.
